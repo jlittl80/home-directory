@@ -15,8 +15,8 @@
         "icon": "pihole.png",
         "urls": [
             {
-                "title": "http://pihole/",
-                "url": "http://pihole/admin/"
+                "title": "http://pihole.home/",
+                "url": "http://pihole.home:85/admin/"
             }
         ],
         "sortIndex": "4"
@@ -75,7 +75,7 @@
         "urls": [
             {
                 "title": "http://odroid.home/",
-                "url": "http://odroid.home:8080/"
+                "url": "http://odroid.home:3000/"
             },
             {
                 "title": "http://speedtest/",
