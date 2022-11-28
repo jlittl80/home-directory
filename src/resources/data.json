@@ -4,125 +4,99 @@
         "icon": "pfsense.png",
         "urls": [
             {
-                "title": "https://router.home/",
-                "url": "https://router.home/"
+                "title": "https://router.jordielittle.dev/",
+                "url": "https://router.jordielittle.dev/"
             }
-        ],
-        "sortIndex": "1"
-    },
-    {
-        "title": "Pi-hole",
-        "icon": "pihole.png",
-        "urls": [
-            {
-                "title": "http://pihole.home/",
-                "url": "http://pihole.home:85/admin/"
-            }
-        ],
-        "sortIndex": "4"
-    },
-    {
-        "title": "Home Assistant",
-        "icon": "homeassistant.png",
-        "urls": [
-            {
-                "title": "http://assistant.home/",
-                "url": "http://assistant.home:8123/"
-            }
-        ],
-        "sortIndex": "3"
+        ]
     },
     {
         "title": "Unraid",
         "icon": "unraid.png",
         "urls": [
             {
-                "title": "https://unraid.home/",
-                "url": "https://unraid.home/"
+                "title": "https://unraid.jordielittle.dev/",
+                "url": "https://unraid.jordielittle.dev/"
             }
-        ],
-        "sortIndex": "2"
+        ]
     },
     {
-        "title": "AP Control Panel",
-        "icon": "tplink.png",
+        "title": "Home Assistant",
+        "icon": "homeassistant.png",
         "urls": [
             {
-                "title": "https://ap.home/",
-                "url": "https://ap.home/"
+                "title": "http://assistant.jordielittle.dev/",
+                "url": "http://assistant.jordielittle.dev/"
             }
-        ],
-        "sortIndex": "999"
-    },
-    {
-        "title": "Portainer",
-        "icon": "portainer.webp",
-        "urls": [
-            {
-                "title": "https://odroid.home/",
-                "url": "https://odroid.home:9443/"
-            },
-            {
-                "title": "https://portainer/",
-                "url": "https://portainer:9443/"
-            }
-        ],
-        "sortIndex": "999"
-    },
-    {
-        "title": "Speedtest",
-        "icon": "speedtest.png",
-        "urls": [
-            {
-                "title": "http://odroid.home/",
-                "url": "http://odroid.home:3000/"
-            },
-            {
-                "title": "http://speedtest/",
-                "url": "http://speedtest/"
-            }
-        ],
-        "sortIndex": "999"
-    },
-    {
-        "title": "GO REST WOL",
-        "icon": "gowol.png",
-        "urls": [
-            {
-                "title": "http://odroid.home/",
-                "url": "http://odroid.home:9090/"
-            },
-            {
-                "title": "http://gowol/",
-                "url": "http://gowol:9090/"
-            }
-        ],
-        "sortIndex": "999"
-    },
-    {
-        "title": "Odroid Glances",
-        "icon": "glances.png",
-        "urls": [
-            {
-                "title": "http://odroid.home/",
-                "url": "http://odroid.home:61208/"
-            },
-            {
-                "title": "http://glances/",
-                "url": "http://glances:61208/"
-            }
-        ],
-        "sortIndex": "999"
+        ]
     },
     {
         "title": "Unraid Glances",
         "icon": "glances.png",
         "urls": [
             {
-                "title": "http://unraid.home/",
-                "url": "http://unraid.home:61208/"
+                "title": "https://unraid.jordielittle.dev/",
+                "url": "https://unraid.jordielittle.dev:61208/"
             }
-        ],
-        "sortIndex": "999"
+        ]
+    },
+    {
+        "title": "Pi-hole",
+        "icon": "pihole.png",
+        "urls": [
+            {
+                "title": "https://odroid.jordielittle.dev/",
+                "url": "https://odroid.jordielittle.dev:85/"
+            }
+        ]
+    },
+    {
+        "title": "AP Control Panel",
+        "icon": "tplink.png",
+        "urls": [
+            {
+                "title": "https://ap.jordielittle.dev/",
+                "url": "https://ap.jordielittle.dev/"
+            }
+        ]
+    },
+    {
+        "title": "Portainer",
+        "icon": "portainer.webp",
+        "urls": [
+            {
+                "title": "https://odroid.jordielittle.dev/",
+                "url": "https://odroid.jordielittle.dev:9443/"
+            }
+        ]
+    },
+    {
+        "title": "Speedtest",
+        "icon": "speedtest.png",
+        "urls": [
+            {
+                "title": "https://odroid.jordielittle.dev/",
+                "url": "https://odroid.jordielittle.dev:3080/"
+            }
+        ]
+    },
+    {
+        "title": "GO REST WOL",
+        "icon": "gowol.png",
+        "urls": [
+            {
+                "title": "https://odroid.jordielittle.dev/",
+                "url": "https://odroid.jordielittle.dev:9090/"
+            }
+        ]
+    },
+    {
+        "title": "Odroid Glances",
+        "icon": "glances.png",
+        "urls": [
+            {
+                "title": "https://odroid.jordielittle.dev/",
+                "url": "https://odroid.jordielittle.dev:61210/"
+            }
+        ]
     }
 ]
