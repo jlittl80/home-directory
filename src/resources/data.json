@@ -60,12 +60,22 @@
         ]
     },
     {
+        "title": "Kanboard",
+        "icon": "kanboard.png",
+        "urls": [
+            {
+                "title": "https://tower.jordielittle.dev/",
+                "url": "https://tower.jordielittle.dev:3080/"
+            }
+        ]
+    },
+    {
         "title": "Zigbee2MQTT",
         "icon": "zigbee2mqtt.png",
         "urls": [
             {
                 "title": "https://tower.jordielittle.dev/",
-                "url": "https://tower.jordielittle.dev:3080/"
+                "url": "https://tower.jordielittle.dev:1443/"
             }
         ]
     },
