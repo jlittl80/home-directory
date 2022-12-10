@@ -10,12 +10,22 @@
         ]
     },
     {
-        "title": "Unraid",
-        "icon": "unraid.png",
+        "title": "AP Control Panel",
+        "icon": "tplink.png",
         "urls": [
             {
-                "title": "https://unraid.jordielittle.dev/",
-                "url": "https://unraid.jordielittle.dev/"
+                "title": "https://ap.jordielittle.dev/",
+                "url": "https://ap.jordielittle.dev/"
+            }
+        ]
+    },
+    {
+        "title": "Proxmox",
+        "icon": "proxmox.png",
+        "urls": [
+            {
+                "title": "http://proxmox.jordielittle.dev/",
+                "url": "http://proxmox.jordielittle.dev/"
             }
         ]
     },
@@ -30,12 +40,42 @@
         ]
     },
     {
-        "title": "Unraid Glances",
+        "title": "TrueNAS",
+        "icon": "truenas.png",
+        "urls": [
+            {
+                "title": "http://nas.jordielittle.dev/",
+                "url": "http://nas.jordielittle.dev/"
+            }
+        ]
+    },
+    {
+        "title": "Pi-hole",
+        "icon": "pihole.png",
+        "urls": [
+            {
+                "title": "https://tower.jordielittle.dev/",
+                "url": "https://tower.jordielittle.dev/"
+            }
+        ]
+    },
+    {
+        "title": "Zigbee2MQTT",
+        "icon": "zigbee2mqtt.png",
+        "urls": [
+            {
+                "title": "https://tower.jordielittle.dev/",
+                "url": "https://tower.jordielittle.dev:3080/"
+            }
+        ]
+    },
+    {
+        "title": "Tower Glances",
         "icon": "glances.png",
         "urls": [
             {
-                "title": "https://unraid.jordielittle.dev/",
-                "url": "https://unraid.jordielittle.dev:61208/"
+                "title": "https://tower.jordielittle.dev/",
+                "url": "https://tower.jordielittle.dev:61208/"
             }
         ]
     },
@@ -46,16 +86,6 @@
             {
                 "title": "https://odroid.jordielittle.dev/",
                 "url": "https://odroid.jordielittle.dev:85/"
-            }
-        ]
-    },
-    {
-        "title": "AP Control Panel",
-        "icon": "tplink.png",
-        "urls": [
-            {
-                "title": "https://ap.jordielittle.dev/",
-                "url": "https://ap.jordielittle.dev/"
             }
         ]
     },
