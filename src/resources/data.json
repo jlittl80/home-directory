@@ -24,8 +24,8 @@
         "icon": "proxmox.png",
         "urls": [
             {
-                "title": "http://proxmox.jordielittle.dev/",
-                "url": "http://proxmox.jordielittle.dev/"
+                "title": "https://proxmox.jordielittle.dev/",
+                "url": "https://proxmox.jordielittle.dev/"
             }
         ]
     },
@@ -34,8 +34,8 @@
         "icon": "homeassistant.png",
         "urls": [
             {
-                "title": "http://assistant.jordielittle.dev/",
-                "url": "http://assistant.jordielittle.dev/"
+                "title": "https://assistant.jordielittle.dev/",
+                "url": "https://assistant.jordielittle.dev/"
             }
         ]
     },
@@ -44,8 +44,8 @@
         "icon": "truenas.png",
         "urls": [
             {
-                "title": "http://nas.jordielittle.dev/",
-                "url": "http://nas.jordielittle.dev/"
+                "title": "https://nas.jordielittle.dev/",
+                "url": "https://nas.jordielittle.dev/"
             }
         ]
     },
