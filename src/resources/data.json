@@ -50,22 +50,12 @@
         ]
     },
     {
-        "title": "Pi-hole",
+        "title": "Pi-hole Secondary",
         "icon": "pihole.png",
         "urls": [
             {
                 "title": "https://tower.jordielittle.dev/",
-                "url": "https://tower.jordielittle.dev/"
-            }
-        ]
-    },
-    {
-        "title": "Kanboard",
-        "icon": "kanboard.png",
-        "urls": [
-            {
-                "title": "https://tower.jordielittle.dev/",
-                "url": "https://tower.jordielittle.dev:3080/"
+                "url": "https://tower.jordielittle.dev:5080/"
             }
         ]
     },
@@ -75,7 +65,7 @@
         "urls": [
             {
                 "title": "https://tower.jordielittle.dev/",
-                "url": "https://tower.jordielittle.dev:1443/"
+                "url": "https://tower.jordielittle.dev:6080/"
             }
         ]
     },
@@ -90,12 +80,12 @@
         ]
     },
     {
-        "title": "Pi-hole",
+        "title": "Pi-hole Primary",
         "icon": "pihole.png",
         "urls": [
             {
                 "title": "https://odroid.jordielittle.dev/",
-                "url": "https://odroid.jordielittle.dev:85/"
+                "url": "https://odroid.jordielittle.dev:1080/"
             }
         ]
     },
@@ -106,6 +96,16 @@
             {
                 "title": "https://odroid.jordielittle.dev/",
                 "url": "https://odroid.jordielittle.dev:9443/"
+            }
+        ]
+    },
+    {
+        "title": "Kanboard",
+        "icon": "kanboard.png",
+        "urls": [
+            {
+                "title": "https://odroid.jordielittle.dev/",
+                "url": "https://odroid.jordielittle.dev:2443/"
             }
         ]
     },
@@ -125,7 +125,7 @@
         "urls": [
             {
                 "title": "https://odroid.jordielittle.dev/",
-                "url": "https://odroid.jordielittle.dev:9090/"
+                "url": "https://odroid.jordielittle.dev:4080/"
             }
         ]
     },
